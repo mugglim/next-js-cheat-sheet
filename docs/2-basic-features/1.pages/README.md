@@ -1,6 +1,4 @@
-# Basic Features
-
-## Pages
+# [Pages](https://nextjs.org/docs/basic-features/pages)
 
 ## Static routes vs Dynamic routes
 
